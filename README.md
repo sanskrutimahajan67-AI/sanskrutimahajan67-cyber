@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sanskruti!+👋;Welcome+to+my+cyber+space!+🌐" alt="Typing SVG" />
+</div>
 
 <!--
 **sanskrutimahajan67-cyber/sanskrutimahajan67-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
